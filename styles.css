@@ -1,0 +1,23 @@
+body {
+    display: block;
+    background-color: #D9E6EF;
+  }
+  
+  #main {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-variant-caps: small-caps;
+    text-align: center;
+  }
+  
+  #main title {
+    font-size: 10px;
+  }
+  
+  #main p {
+    background-color: #479edb;
+    color: white;
+    margin: auto;
+    width: 200px;
+    padding: 10px;
+  }
+
