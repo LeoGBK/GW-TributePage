@@ -24,14 +24,19 @@ body {
   }
 
   #img-div {
-  
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 
 #image {
   width: auto;
   height: 628px;
+  border-radius: 8px;
 }
 
-#image-caption {
-
+#img-caption {
+    font-weight: bold;
+    font-style: italic;
 }
