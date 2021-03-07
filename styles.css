@@ -77,4 +77,10 @@ li {
 
 #tribute-link {
     font-size: 15px;
+    padding: 20px;
+  }
+
+footer {
+    display: flex;
+    justify-content: space-evenly;
   }
