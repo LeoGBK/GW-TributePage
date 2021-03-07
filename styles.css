@@ -5,18 +5,18 @@ body {
     background-color: #D9E6EF;
   }
   
-  #main {
+#main {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-variant-caps: small-caps;
     text-align: center;
   }
   
-  #title {
+#title {
     font-size: 80px;
     color: #337db3;
   }
   
-  #main p {
+#main p {
     background-color: #479edb;
     font-size: 35px;
     color: white;
@@ -25,9 +25,9 @@ body {
     padding: 10px;
   }
 
-  #img-div {
-      background-color: silver;
-      padding: 20px;
+#img-div {
+    background-color: silver;
+    padding: 20px;
 }
 
 #image {
@@ -54,12 +54,16 @@ body {
     width: 700px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: justify;
-    line-height: 45px;
+    line-height: 30px;
   }
 
-  h3 {
+h3 {
     font-size: 20px;
     color: #337db3;
     text-align: center;
     font-variant-caps: small-caps;
+  }
+
+li {
+    padding: 15px;
   }
