@@ -25,6 +25,7 @@ body {
 
   #img-div {
       background-color: silver;
+      padding: 20px;
 }
 
 #image {
@@ -37,6 +38,7 @@ body {
     font-weight: bold;
     font-style: italic;
     text-align: center;
+    margin: 10px;
 }
 
 .center {
