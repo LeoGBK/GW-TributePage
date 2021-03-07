@@ -47,3 +47,10 @@ body {
     margin-right: auto;
     width: 50%;
 }
+
+#tribute-info {
+    width: 700px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    line-height: 45px;
+  }
